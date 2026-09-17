@@ -88,15 +88,3 @@ False positives may result in additional follow-up or resource utilization.
 
 Therefore, the classification threshold should be selected according to the
 relative costs of these errors rather than relying only on the default 0.5 threshold.
-
-## Project Structure
-
-hospital-readmission-prediction/
-│
-├── README.md
-├── notebooks/
-│   └── Hospital_30_Day_Readmission_Prediction.ipynb
-├── images/
-├── data/
-├── requirements.txt
-└── .gitignore
